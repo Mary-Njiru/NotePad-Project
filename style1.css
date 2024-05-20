@@ -233,8 +233,8 @@
   }
   .search-box{
     position: fixed;
-    top: 30px;
-    margin-left: 40px;
+    top: 20px;
+    margin-left: 50px;
     display: flex;
     align-items: center;
     background: #fff;
@@ -244,12 +244,12 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
   .search-box input {
-    height: 30px;
-    width: 150%;
+    height: 40px;
+    width: 100%;
     outline: none;
     font-size: 1rem;
     padding: 0 15px;
-    border-radius: 10px;
+    border-radius: 20px;
     border: none;
   }
 @media (max-width: 660px){
